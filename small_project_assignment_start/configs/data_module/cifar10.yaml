@@ -1,0 +1,7 @@
+# You need to fill out this configuration file
+_target_: data_modules.CIFAR10DataModule
+batch_size: 64
+num_workers: 8
+pin_memory: true
+drop_last: true
+data_dir: ./data/cifar10

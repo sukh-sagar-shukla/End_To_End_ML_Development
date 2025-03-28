@@ -1,0 +1,5 @@
+# You need to fill out this configuration file
+_target_: torch.optim.SGD
+_partial_: true
+lr: 5e-5
+weight_decay: 0.2

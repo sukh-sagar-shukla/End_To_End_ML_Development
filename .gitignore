@@ -1,0 +1,7 @@
+.venv
+*__pycache__
+*checkpoints
+*data
+*outputs
+*tb_logs
+*DS_Store
