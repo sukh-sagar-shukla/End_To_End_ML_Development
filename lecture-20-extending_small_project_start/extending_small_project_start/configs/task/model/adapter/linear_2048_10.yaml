@@ -1,0 +1,5 @@
+
+
+_target_: adapters.LinearAdapter
+in_features: 2048
+out_features: 10
